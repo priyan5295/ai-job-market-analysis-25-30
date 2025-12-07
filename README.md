@@ -1,6 +1,8 @@
 📊 Project Overview
+
 This workforce analytics project examines how Artificial Intelligence is reshaping the global job market. Using 30,000 job records across multiple industries and countries, the analysis reveals automation risks, salary trends, and employment patterns to guide career planning and workforce development.
 Domain: Workforce Analytics & Labor Market Intelligence
+
 🎯 Key Objectives
 ✅ Identify growing and declining job roles
 ✅ Evaluate AI automation impact across industries
